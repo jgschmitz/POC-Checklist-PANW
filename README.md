@@ -1,7 +1,7 @@
 
 ![](https://www.paloaltonetworks.com/content/dam/pan/en_US/images/logos/brand/primary-company-logo/Parent-logo.png?imwidth=480)
 
-# MongoDB Community 3.6 to MongoDB Atlas Migration Checklist
+# MongoDB Community 3.6 to MongoDB Atlas Sharded Cluster + Migration Checklist
 
 
 ## Current Deployment Details
