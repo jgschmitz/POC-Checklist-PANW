@@ -3,12 +3,6 @@ Pre Project Questions - Migration Project
 
 # MongoDB Community 3.6 to MongoDB Atlas Migration Checklist
 
-## General Information
-- [ ] Customer Name:
-- [ ] Project Name:
-- [ ] Contact Person:
-- [ ] Current MongoDB Version:
-- [ ] Target MongoDB Atlas Version:
 
 ## Current Deployment Details
 - [ ] Total Data Size (approximate): 40 TB
