@@ -1,5 +1,7 @@
-# POC-Checklist-PANW   ![](https://www.paloaltonetworks.com/content/dam/pan/en_US/images/logos/brand/primary-company-logo/Parent-logo.png?imwidth=480)
+# POC-Checklist-PANW   
 Pre Project Questions - Migration Project 
+
+![](https://www.paloaltonetworks.com/content/dam/pan/en_US/images/logos/brand/primary-company-logo/Parent-logo.png?imwidth=480)
 
 # MongoDB Community 3.6 to MongoDB Atlas Migration Checklist
 
